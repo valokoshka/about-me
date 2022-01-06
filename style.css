@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+ul, li {
+  padding: 0;
+  margin: 0;
+}
+.menu {
+  list-style-type: none; 
+  display: flex;
+}
+.menu-link {
+  margin-right: 40px;
+}
+.first-block {
+  height: 950px; 
+  background-image: url(./images/bgc.png); 
+  background-size: contain; 
+  background-repeat: no-repeat;
+  position: absolute;
+}
